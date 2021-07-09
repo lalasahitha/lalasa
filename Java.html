@@ -1,0 +1,37 @@
+<html>
+         <head>
+<body>
+         <p>Welcome to JavaScript</p>
+
+
+              <title>dynamic</title>
+              <script type="text/javascript" /*src="first.js"*/>
+                   function msg(address)
+                   {
+                       username=document.getElementById("textbox1").value;
+                       if(address == null)
+                                 address = 'Ms.';
+                       alert("Hello " +address + " " +usrname);
+                       document.getElementById("textbox2").value = "Hello" +address + " " +usrname;
+                       //document.writeln("Hello " +usrname);
+                   }
+
+                   function convert()
+                   {
+                             text1=document.getElementId("textbox3").value;
+                             
+      
+
+             </script>
+               <form>
+                      Enter Name: <input type="text" id="textbox1"> <p> <p>
+                     <input type="button" value="`Click to Greet" onClick="msg('Mr.')" />
+                     <input type="button" value=" Click to Greet without Salutation" onClick="msg()" />  <p>
+                     <input type="text" id = "textbox2"> <p> <p>
+                      <input type="text" id = "textbox2"> <p> <p>
+                      <input type="button" value="Click Display" onClick="convert()" />
+ 
+
+              </form>
+</body>
+</html>

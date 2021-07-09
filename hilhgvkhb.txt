@@ -1,0 +1,33 @@
+<html>
+       <HEAD>
+               <title>My First Page </title>
+       </head>
+       <body bgcolor = "pink">
+              <H1 align = "center"> This is mt first page HTML page </h1>
+I am Lalasa Paniki from Nellore. I am a tech bee scholar from VJ_OND_TECHBEE3_DOTNET1, 
+at present I am learning Dot net technology. Firstly, we have learnt all basic topics 
+such as BIS, Networks, Shell scripting etc. Now I am into a Dotnet technology which is of coding. 
+Till now we have completed our basic topics and now we are into advanced part of dot net. 
+This is quite interesting, I liked that very much and I am knowing many new things which 
+I had never gone through and it is very interesting and easy to learn.
+<p/>
+Everyone is requested to assemble in the <b>conference room/b> tommorrow (17/2/2021) at <b>9 AM.</b>
+<p/>
+I am Lalasa Paniki from Nellore. I am a tech bee scholar from <i>VJ_OND_TECHBEE3_DOTNET1</i>.
+At present I am learning Dot net technology. Firstly, we have learnt all basic topics such as BIS, Networks,
+ Shell scripting etc. Now I am into a Dotnet technology which is of coding. Till now we have completed our basic 
+topics and now we are into advanced part of dot net. This is quite interesting, I liked that very much 
+and I am knowing many new things which I had never gone through and it is very interesting and easy to learn.
+
+<p/> I was being work hard from my childhood to learn new things and make it in easy ways. 
+I will complete my work in joyful way.
+</p> My hobbies are:
+<ul type = "circle">
+         <li> Making chitchats </li>
+         <li> Hangouts with friends </li>
+         <li> photography </li>
+</ul>
+<p> That all about me, <u>Thank you this <strike>opportunity.</strike></u>
+
+     </body>
+</html>
